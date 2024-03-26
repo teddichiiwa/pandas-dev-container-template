@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+matplotlib
+xlwt
+xlrd
+openpyxl
+sqlalchemy
+psycopg
+
+gpxpy
